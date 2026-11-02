@@ -1,55 +1,56 @@
-# Hi there, I'm sam 👋
+# Hi there, I'm Sambit 👋
 
-Software Engineer focused on building scalable backend architectures, full-stack web applications, and cloud-native systems. Passionate about clean code, distributed systems, and developer tooling.
+Software Engineer focused on backend architectures, cloud-native systems, and full-stack web applications. Passionate about real-time distributed systems, container orchestration, and building clean, high-performance developer tooling.
 
 ---
 
-### 🚀 What I'm Working On
-- 🔭 Building and deploying full-stack apps with **Next.js**, **Node.js/TypeScript**, and **WebSockets**
-- ⚙️ Exploring cloud infrastructure, container orchestration with **Kubernetes**, and caching with **Redis**
-- 🌱 Deepening knowledge in **Go** and spec-driven API development
-- 💬 Ask me about **TypeScript**, **PostgreSQL**, **microservices**, or **system design**
+### 🚀 What I'm Focused On
+- 🔭 Engineering real-time backend services using **TypeScript**, **Node.js**, and **WebSockets**
+- ⚙️ Managing containerized workflows and cluster telemetry with **Kubernetes**, **Docker**, and **Redis**
+- 🌐 Building modern, responsive web apps and marketplace interfaces with **Next.js**, **React**, and **Tailwind CSS**
+- 🌱 Exploring lower-level system patterns and spec-driven API engineering
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  
-`TypeScript` `JavaScript` `Go` `Python` `SQL` `HTML/CSS`
+`TypeScript` `JavaScript` `Go` `SQL` `HTML5` `CSS3`
 
-**Frameworks & Libraries:**  
-`Node.js` `Express` `Next.js` `React` `Tailwind CSS`
+**Backend & Realtime:**  
+`Node.js` `Express` `WebSockets` `REST APIs`
 
-**Databases & Caching:**  
-`PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase`
+**Frontend:**  
+`Next.js` `React` `Tailwind CSS`
 
-**DevOps & Cloud:**  
-`Docker` `Kubernetes` `Git/GitHub Actions` `Vercel` `Render` `Linux`
+**Databases & Storage:**  
+`PostgreSQL` `MongoDB` `Redis` `Supabase` `Firebase`
+
+**DevOps & Infrastructure:**  
+`Kubernetes` `Docker` `Git` `GitHub Actions` `Vercel` `Render` `Linux`
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Repositories
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project One** | High-concurrency backend service with real-time updates. | Node.js, WebSockets, Redis | [Repository](https://github.com/...) |
-| **Project Two** | Cluster monitoring and metric aggregation tool. | Kubernetes, Docker, Go | [Repository](https://github.com/...) |
-| **Project Three** | Modern web application with server-side rendering and auth. | Next.js, PostgreSQL, Tailwind | [Repository](https://github.com/...) |
+| **oblivion** | Real-time backend web service utilizing persistent connections and event broadcasting. | `TypeScript` `Node.js` `WebSockets` `Render` | [View Repo](https://github.com/sambit-srcm/oblivion) |
+| **k8s-monitoring** | Cluster telemetry and metric aggregation utility integrated with distributed caching. | `Kubernetes` `Docker` `Redis` | [View Repo](https://github.com/sambit-srcm/k8s-monitoring) |
+| **NFT Platform** | Modern full-stack application featuring interactive landing pages and marketplace components. | `Next.js` `React` `Tailwind CSS` `Vercel` | [View Repo](https://github.com/sambit-srcm/nft-website) |
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sambit-srcm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sambit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit-srcm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white)](https://YOUR_WEBSITE)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-
+- 📍 Location: Bhubaneswar, India
+- 🐙 GitHub: [@sambit-srcm](https://github.com/sambit-srcm)
